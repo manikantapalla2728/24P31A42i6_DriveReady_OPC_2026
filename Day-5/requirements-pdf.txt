@@ -1,0 +1,7 @@
+# Only needed for the bonus script pdf_rag.py
+pymupdf
+sentence-transformers
+faiss-cpu
+numpy
+groq
+# optional, for scanned PDFs (OCR): pytesseract pillow  (+ the tesseract program)
